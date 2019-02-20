@@ -1,18 +1,13 @@
-### JetBrains IDE ###
+### vscode ###
 #####################
-.idea/
-
-### Emacs Temporary Files ###
-#############################
-*~
+.vscode/
 
 ### Folders ###
 ###############
-bin/
-vendor/
+.obj/
+.obj/*
+
 
 ### Files ###
 #############
-*.ivf
-tags
-cover.out
+doser

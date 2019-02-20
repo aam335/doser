@@ -47,6 +47,6 @@ $ ./doser
 0.0002 -v[v...] - verbose
 0.0002 -cNumber - number of parallel queries
 0.0002 -lNumber - limit queries count (default 1000)
-0.0002 -tNumber - limit total test time in ms (default 5s)
+0.0002 -tNumber - limit total test time in sec 
 0.0002 -wNumber - connection timeout (default 5s)
 ```

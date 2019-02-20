@@ -192,7 +192,7 @@ int main(int argc, char **argv)
         conp("-v[v...] - verbose");
         conp("-cNumber - number of parallel queries");
         conp("-lNumber - limit queries count (default 1000)");
-        conp("-tNumber - limit total test time in ms (default 5s)");
+        conp("-tNumber - limit total test time in seconds");
         conp("-wNumber - connection timeout (default 5s)");
         return 0;
     }
