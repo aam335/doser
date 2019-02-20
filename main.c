@@ -264,7 +264,7 @@ int main(int argc, char **argv)
     }
     if (ext_tcp_err > 0)
     {
-        conp("# external (http server tcp reject) errors: %i", ext_tcp_err);
+        conp("# external (http server tcp reject/timeout) errors: %i", ext_tcp_err);
     }
     conp("code\tmin\tmax\tavg\ttotal queries");
     for (int i = ERR_MAP_SIZE; i < 999; i++)
