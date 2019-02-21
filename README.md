@@ -50,3 +50,6 @@ $ ./doser
 0.0002 -tNumber - limit total test time in sec 
 0.0002 -wNumber - connection timeout (default 5s)
 ```
+
+### License
+MIT License - see [LICENSE](LICENSE) for full text
